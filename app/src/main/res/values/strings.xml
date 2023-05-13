@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="greeting">Hello World!</string>
+    <string name="btn1">Next Page</string>
+    <string name="btn2">okay</string>
+    <string name="myname">Exit</string>
+    <string name="name2">Aryan</string>
+    <string name="title_home">homeactivity</string>
+    <string name="btn3">Lets see</string>
+</resources>
